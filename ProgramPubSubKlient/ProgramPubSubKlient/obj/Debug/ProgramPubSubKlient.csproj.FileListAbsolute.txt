@@ -1,0 +1,14 @@
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramPubSubKlient\ProgramPubSubKlient\bin\Debug\ProgramPubSubKlient.exe.config
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramPubSubKlient\ProgramPubSubKlient\bin\Debug\ProgramPubSubKlient.exe
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramPubSubKlient\ProgramPubSubKlient\bin\Debug\ProgramPubSubKlient.pdb
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramPubSubKlient\ProgramPubSubKlient\bin\Debug\AsyncIO.dll
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramPubSubKlient\ProgramPubSubKlient\bin\Debug\NetMQ.dll
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramPubSubKlient\ProgramPubSubKlient\bin\Debug\AsyncIO.pdb
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramPubSubKlient\ProgramPubSubKlient\bin\Debug\NetMQ.pdb
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramPubSubKlient\ProgramPubSubKlient\bin\Debug\NetMQ.xml
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramPubSubKlient\ProgramPubSubKlient\obj\Debug\ProgramPubSubKlient.csprojResolveAssemblyReference.cache
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramPubSubKlient\ProgramPubSubKlient\obj\Debug\ProgramPubSubKlient.PubSubKlient.resources
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramPubSubKlient\ProgramPubSubKlient\obj\Debug\ProgramPubSubKlient.Properties.Resources.resources
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramPubSubKlient\ProgramPubSubKlient\obj\Debug\ProgramPubSubKlient.csproj.GenerateResource.Cache
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramPubSubKlient\ProgramPubSubKlient\obj\Debug\ProgramPubSubKlient.exe
+c:\users\andrzej\documents\visual studio 2015\Projects\ProgramPubSubKlient\ProgramPubSubKlient\obj\Debug\ProgramPubSubKlient.pdb
